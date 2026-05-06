@@ -1,5 +1,5 @@
 # CHANGELOG
 
-## [0.1.00]
+## [1.0.00]
 
 - Initial release.
