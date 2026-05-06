@@ -1,0 +1,37 @@
+{
+  "id": "auto-generated",
+  "title": "Pull Players to Level",
+  "description": "Add a context menu option to scene levels in the navigation bar to pull all players to that specific level.",
+  "version": "auto-generated",
+  "url": "auto-generated",
+  "manifest": "auto-generated",
+  "download": "auto-generated",
+  "authors": [
+    {
+      "name": "misthero",
+      "discord": "misthero",
+      "github": "misthero"
+    }
+  ],
+  "compatibility": {
+    "minimum": "14",
+    "verified": "14"
+  },
+  "scripts": [
+    "pull-players-to-level.js"
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
+  "requirements": [
+    {
+      "id": "lib-wrapper",
+      "type": "module",
+      "manifest": "https://github.com/ruipin/fvtt-lib-wrapper/releases/latest/download/module.json"
+    }
+  ]
+}
